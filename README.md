@@ -1,4 +1,4 @@
-# Calculator CSS & JavaScript with UI Design
+# Calculator with UI Design
 
 ![Calcuator](./calc-screshot.png)
 
