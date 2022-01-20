@@ -2,6 +2,6 @@
 
 ![Calcuator](./calc-screshot.png)
 
-[Click HERE!!!](https://github.io/mc-mvnchu/Calcutor)
+[Click HERE!!!](https://github.io/mc-mvnchu/Calculator)
 
 ### More UI Design Theme color features to be updated SOON
